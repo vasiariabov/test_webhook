@@ -4,7 +4,7 @@ name: Test
 
 trigger:
   branch:
-    - master
+    - vasia_test
   event:
     include:
       - push
