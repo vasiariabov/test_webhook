@@ -7,7 +7,7 @@ trigger:
     - vasia_test
   event:
     include:
-      - push
+      - pull_request
 
 steps:
 - name: discord-pr
